@@ -1,4 +1,4 @@
-# brother_ql-inventree
+# brother_ql2
 
 Python package for the raster language protocol of the Brother QL series label printers
 
